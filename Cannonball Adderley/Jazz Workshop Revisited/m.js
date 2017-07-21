@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 An Opening Comment by Cannonball.mp3";		
+f[2]	= "03 Jessica's Day.mp3";		
+f[3]	= "05 A Few Words.mp3";		
+f[4]	= "06 Unit 7.mp3";		
+f[5]	= "07 Another Few Words.mp3";		
+f[6]	= "08 The Jive Samba.mp3";		
+f[7]	= "10 Mellow Buno.mp3";		
+f[8]	= "11 Time to Go Now-Really.mp3";		
+f[9]	= "Lillie.mp3";		
+f[10]	= "Marney.mp3";		
+f[11]	= "Primitivo.mp3";		
